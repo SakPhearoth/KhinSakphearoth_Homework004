@@ -1,0 +1,9 @@
+@import "tailwindcss";@layer base {
+  @theme {
+    --color-primary: #059669;
+  }
+  *{
+    transition: all 300ms ease;
+  }
+}
+
